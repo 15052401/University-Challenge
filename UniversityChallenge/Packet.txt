@@ -1,0 +1,363 @@
+STARTERS
+
+1. Scott Aaronson at the University of Texas maintains an online "zoo" devoted to classifying these things. The spacing between these collections are both arbitrarily large and possible to calculate according to the Borodin-Trakhtenbrot Gap Theorem. Laszlo Kalmar coined the term ELEMENTARY for one of these sets, which is formed by taking the union of a group of sets that comprise the exponential hierarchy. Two spatial examples of these sets are equivalent according to Savitch's theorem. A specific one of these sets is defined as the group of problems whose solutions are verifiable using a nondeterministic Turing machine in polynomial time. The hardest problems in many of these sets are termed "complete." For 10 points, name these sets used to classify computational complexity, such as P and NP.
+
+ANSWER: computational complexity classes
+
+2. Thomas DiCiccio introduced a nonlinearity parameter in the ABC method of generating ranges that are calculated using this technique. Some versions of this technique's "wild" form makes use of a two-point function of the form "Y equals a times x plus one minus a times z" to generate desired quantities. Like a simpler linear method invented by John Tukey and Maurice Quenouille, this technique is essentially a direct application of the plug-in principle using values from an empirical function. Points have their values perturbed by a small amount of noise, often proportional to 1 over the square root of n in the (*) "smooth" form of this technique. This technique was introduced by Bradley Efron as a way of correcting bias by generating many subsets of a given data set. It is a generalization of the jackknife method of simulating a sampling distribution. For 10 points, name this class of statistical techniques whose name refers to their ability to "pull" their user up.
+
+ANSWER: bootstrapping
+
+3. Alexia Massalin introduced the "super-" form of this practice in a paper that discusses various techniques in evaluating the signum function. Values are recomputed rather than reloading them in a form of this technique called rematerialization; it is often seen as a form of this technique known as "hoisting," in which invariants are moved outside of the body of certain constructs. Expressions are replaced by their known values in constant folding, a type of this technique that along with strength (*) reduction comprises the "peephole" forms of this technique. This technique often converts a recursive tail call into an iterative loop, and loops themselves may be unwound as part of this technique, though an increase in space is needed. Compilers often perform, for 10 points, what process of improving the efficiency of a computer program?
+
+ANSWER: optimisation
+
+4. These constructs are divided into two types in Ousterhout's Dichotomy, which classifies the "smaller" easier-to-use type of them as "glue." Nwankwogu Sopuruchi classified these things into five generations, with the first-generation type of them being the least portable and the fifth-generation type of them often being used for tasks such as knowledge representation. Mathematical proofs may be expressed using these constructs and have their correctness verified by them according to the Curry- (*) Howard isomorphism. The first non-Von Neumann one of these, Plankalkul, was developed by Konrad Zuse for the Z3. Many of these constructs are Turing-Complete, even shit-for-brains ones like Shakespeare and Brainfuck. Pseudocode is an informal description of an algorithm structured according to the rules of these constructs. For 10 points, name these constructs, such as Clojure, Python, and SQL.
+
+ANSWER: programming languages [accept formal languages; accept computer programs; prompt on operational semantics; prompt on languages]
+
+5. A set of phrases named for this eponym consist of "The pipe began to rust while new" and "Move the vat over the hot fire," are often used to test Voice over IP systems, and are the namesake "sentences" of this institution. A system named after this eponym employs a "split cache" in a scheme where memory is treated as data. An actual computer named after this institution featured a relay which was home to a (*) moth that became the first "computer bug." Grace Hopper worked on that computer, and this institution gives its name to a scheme that segregates data memory and instructions, allowing it to bypass another scheme's namesake "bottleneck." The Von Neumann computer architecture is often contrasted with, for 10 points, the computer architecture named for what Ivy League university?
+
+ANSWER: Harvard
+
+6. The FBS family of these constructs have their namesake property guaranteed via the well-known syndrome problem for linear codes. One of these constructs is a modification of the RadioGatun ("radio"-gah-toon) one and was made with a so-called "sponge" by Guido Bertoni and Gilles van Assche (zheel van ahsh); that one of these entities named Keccak was designed for a competition held by the National Institute of Standards and Technology. The version control system Git (giht) uses one of these constructs to generate practically unique identifiers for revisions. In Linux, the input to these constructs may be put inside a shadow file. These constructs are generally produced from one-way compression functions by the Merkle-Damgard construction. S·H·A-1 and M·D·5 are examples of these constructs, which are generally used to secure passwords before they are stored in a database. For 10 points, name these constructs which map inputs to a number in constant time, whose values are often stored in namesake "tables."
+
+ANSWER: cryptographic hash functions
+
+7. An algorithm named the "big O of log n" algorithm performs this task, and requires that all inputs be written in the form of A x plus B y plus C equals zero. Another algorithm for performing this task generates pairwise intersections between edges of all of its inputs, then makes entry and exit intersections. A much simpler algorithm for performing this task generates a region of 9 outcodes with the center outcode designated by four zeros. The Greiner-Hormann algorithm for this task operates on polygons, while the Cohen-Sutherland algorithm for this task operates on lines. This task is generally performed before rasterization and a7ter projection transformation in parallelized architectures. Occlusion culling is usually performed alongside this task to save GPU operations. For 10 points, name this operation which removes geometric objects not in the view volume.
+
+ANSWER: geometric clipping
+
+8. When Evan Priestley was part of this organization, he developed the Phabricator collaboration tool, which is used for code reviews. In 2013, this company acquired the Mobile-Backend-as-a Service provider Parse, but shut it down in January 2017, raising concerns about vendor lock-in. A publicly available framework initially developed by this company centers on "components" that implement the render method, and is a popular alternative to Angular for building UIs for Web apps. Another of this company's frameworks originally converted scripting code to C++, but now merely executes it using just-in-time compilation on a virtual machine. This company's projects include the JavaScript Library React, as well as the HipHop transpiler, allowing them to write a modi ed form of PHP. For 10 points, name this company whose social network service is centered on a user's "Timeline" and which has periodic updates announced by Mark Zuckerberg.
+
+ANSWER: Facebook
+
+9. Anthony Hoare distinguished between "angelic" and "demonic" forms of programs with this property, depending on the program's likelihood to terminate. Solving the "canonicity problem" for a mathematical model that has this property is PSPACE-complete, whereas solving the "canonicity problem" for a model without this property is in NL. A finite model possessing and named for this property can be obtained by either the Glushkov or the Thompson constructions. A model of size n having this property may be replaced by an equivalent one lacking this property but having size as large as two to the n via the Rabin-Scott powerset algorithm. Adding this property to certain constructs does not increase the amount of languages they accept if the problem requires a polynomial amount of space to solve, according to Savitch's theorem. Epsilon transitions and multiple start states can be used to specify the finite state machines that possess this property. The satisfiability problem and the zero-one integer programming problems are verifiable in polynomial time on Turing machines that have this property. For 10 points, name this property that puts the "N" in the NP complexity class.
+
+ANSWER: nondeterministic [or word forms, such as nondeterminism]
+
+10. This function is represented using the asterisk symbol in the Bird-Meertens (bird-MAIR-tenz) formalism. In Murray Cole's paper introducing algorithmic skeletons, he discusses this function as a way of implementing a "minimal design" principle. In Haskell, the fact that the order of multiple calls to this function does not matter forms the basis for a compiler optimization in which those calls to this function are "jammed," similar to "loop jamming." This function is used to generate a series of "intermediate data groups" in frameworks like CouchDB and Hadoop. In many functional languages, this function is similar to fold and 3lter, but it returns a list generated by applying an input function to an input list. For 10 points, name this higher-order function that is paired with "reduce" in the name of a model o7ten used in Big Data.
+
+ANSWER: map [or morphism; prompt on arrow; do not accept "MapReduce" or "reduce"]
+
+11. When this term is "materialized," it refers to the results of a database query. The S·Q·L command "CREATE [this term] foo, "AS" ("as") query" creates a virtual table named "foo" for the results of a query. Window coordinates transform into coordinates named for this term and "port" to get the rectangular area of the device where an image appears. It names the output representation in a so0ware design pattern for user interfaces named "model, [this term], controller." In 3D graphics, objects are culled outside of the frustum named for this term, which is the space seen by the camera. In a rst-person game, the angle subtended by the visible extent of the world is called the " eld of" this term. For 10 points, what term in web analytics is distinct from a "hit" and refers to a visitor's access of a webpage?
+
+ANSWER: view [or viewing; accept materialized view or view foo or viewport or model, view, controller or viewing frustum or eld of view or pageview; prompt on "vision"]
+
+12. The number of different "full" examples of these structures with n internal vertices is the nth Catalan number. An example of these structures with good amortized properties uses zig, zig-zig, and zig-zag operations. Rotation of these structures maintains their balance, a concept introduced by Evgenii Landis and Georgii Adelson-Velskii. On average, the basic operations on a randomly built example of these structures can be done in big theta of log n time. A balanced example of these structures maintains its properties using the red or black property of each node. The "search" type of these structures has left and right subnodes that, respectively, have a lesser and greater value than the parent node. For 10 points, what structure has at most two children at every node?
+
+ANSWER: binary tree [or self-adjusting binary search tree; or self-balancing binary search tree; or BST; or splay trees; or AVL trees; or red-black trees; accept rooted tree or ordered tree or plane tree or k-ary tree before "zig"; prompt on "tree"; do not accept or prompt on answers that do not mention "tree"]
+
+13. This property and persistence are possessed by the data structures in Clojure ("closure"). The opposite of this property in Haskell can be implemented with the State monad, ST monad, and I·O·Ref. Using an object with this property means that no defensive copies are needed. A class that has only accessor methods has this property and, thus, requires that a constructor be called to create a new object. Examples of classes with this property include Java's primitive wrapper classes and String class, as well as Python's tuples (TUH-pulls). Objects with this property are useful because they are intrinsically thread-safe and, in C and C++ ("c plus plus"), can be declared using the keyword "const." For 10 points, what property is possessed by objects that cannot have their states changed a er they are created, in contrast to mutable objects?
+
+ANSWER: immutable [accept immutable objects or immutable data or immutable classes; accept word forms such as immutability; prompt on "unchangeable" or "unmodi able" or "constant"]
+
+14. A 1990 paper by Ben-Or and Goldreich proved that if one-way functions exist, then the Computational Zero-Knowledge complexity class equals this other one. Scott Aaronson showed that the existence of closed timelike curves would mean that quantum Turing Machines would have the power of this complexity class. Using an alternating Turing Machine on the set of problems in this class yields EXPTIME. The set of true quantified Boolean Formulas is part of the "complete" variant of this class. This class was initially thought to be smaller than another class, until a man used the graph connectivity problem and the fact that the square of a polynomial is still a polynomial to to show that this class and its nondeterministic counterpart are actually equivalent. For 10 points, name this complexity class, consisting of decision problems that are solvable with a polynomial amount of memory.
+
+ANSWER: PSPACE [accept IP or Interactive Proof until "quantum"]
+
+15. The 1973 paper that introduced this algorithm discusses Lewis Carroll's denouncement of an "unfair method" of determining the second-best player of a lawn tennis tournament. This algorithm is only practical for datasets where the number of elements is greater than 4,000,000 since its running time grows on the order of 22n. The simplified recurrence relation for this algorithm is "T of n, is equal to T of n times two tenths plus T of n times seven tenths plus c times n". Manuel Blum, one of the namesakes of the RSA algorithm, Robert Tarjan, R.W. Floyd et al. introduced this algorithm, which begins by partitioning a list into groups of five. Though this algorithm has a linear runtime, randomized quickselect is often used instead since this algorithm's overhead is so high. For 10 points, name this algorithm that, as its name indicates, choose the middle element of a list of approximately "middle elements".
+
+ANSWER: median of medians algorithm [prompt on medians selection algorithm; prompt on quickselect before quickselect is mentioned.]
+
+16. A definition of these computational constructs given by John Power, making use of Lawvere Theory, inspired the work of Gordon Plotkin, who showed that "computational effects" determine the identity of these things. These programming constructs are given the properties of "enrichment" and "finitariness" in a paper by Luth and Ghani that defines their composition using coproducts. In the 1991 paper by Eugenio Moggi that first applied these things to computer science, they are specified using Kleisli triples. These constructs can be used to implement continuation passing style since they often employ the keyword "maybe" to separate stateful code from code that lacks side effects. In Haskell, they are often used to handle input and output. For 10 points, name these units from functional programming that allow for the chaining of operations, and which take their name from category theory.
+
+ANSWER: monads
+
+17. Confidence in the accuracy of these methods can be quantitatively assessed using double decay analysis, which is an extension of a method which measures confidence by a quantity called either the decay index or the Bremer support. KC Nixon developed these methods' namesake "ratchet," which uses heuristics such as TBR and NNI between two reweighting steps. When the probability of a reversal is high, a variant of these methods named for Dollo is often used. When using these methods, algorithms for Sankoff or Fitch are used to compute this condition's namesake "score." Under this condition, the amount of homoplasy is minimized, as is the number of character transitions. Distance matrix methods, Bayesian inference, and maximum likelihood are alternatives to, for 10 points, what method for generating phylogenetic trees, which conceptually searches for the "simplest" tree?
+
+ANSWER: maximum parsimony methods [or MP; accept descriptive answers like "finding the most parsimonious tree"; UNTIL the words "this condition," prompt on descriptive answers like "generating phylogenetic trees" or "reconstructing phylogenies"]
+
+18. When a mathematical structure has only one of these objects and "n" self-loops, it is called a bouquet. In an incidence matrix, entries for arcs going away or towards one of these things are denoted -1 and 1, respectively. A classic NP-complete problem seeks to identify the minimum number of these objects that may form a "cover". If removing one of these objects increases the number of components that are connected, then they are described as (*) "cut". Starting at the root one of these, visiting each of these once, and then backtracking is called the depth-first algorithm. The number of branches that touch one of these is called its degree, and the shortest path between two of these can be found using Dijkstra's [DIKE-stra's] algorithm. For 10 points, name these parts of graphs that are connected by edges.
+
+ANSWER: vertex [accept vertices, accept nodes, prompt on "points"]
+
+19. An algorithm that performs this task on a limited number of known items and expands the most promising one is called a "beam" algorithm. A graph that performs this algorithm can have an extra bit that is encoded as a color of the node, red or black. One of these algorithms that starts at a (*) root node and explores neighbors first is called "breadth-first." Lists need to be sorted to implement the binary algorithm of this kind. The efficiency of these algorithms can be expressed in big O notation, and a linear one has big O of N. For 10 points, name these algorithms that attempt to find a given value.
+
+ANSWER: search algorithm
+
+20. These programs may implement name mangling in order to avoid overloaded identifiers. The "man or boy?" test seeks to distinguish whether a program of this type is capable of handling recursion and non-local references. Frances E. Allen became the first woman to win the Turing Award in 2006 for her work in optimizing these programs, which may involve instruction selection and loop unrolling. (*) LCC and Clang are examples of these programs that perform bootstrapping because they are written in the same language that they intend to process. These programs which perform their function during execution are described as "just-in-time" examples of these programs. For 10 points, name these programs that translate high-level source code into lower-level machine code.
+
+ANSWER: compilers
+
+BONUSES
+
+1. This form of search evaluates nodes by combining its path cost from the start node with a heuristic estimating the distance to the goal node. For 5 points each:
+
+[5] Name this widely-used form of best-first search differentiated from uniform cost search by its usage of a heuristic. The graph-search version of this technique is guaranteed to be optimal if its heuristic is consistent.
+
+ANSWER: A star search
+
+[5] For optimality in the tree-search version of A star, the search's heuristic must have this property, meaning that it never overestimates the distance to the goal state.
+
+ANSWER: admissibility [or admissible]
+
+[5] The A-star search is a modified form of this original algorithm, developed by a Dutch computer scientist in 1959. This algorithm finds the shortest path between two nodes in a graph for nonnegative edge weights.
+
+ANSWER: Dijkstra's algorithm
+
+2. Comparison-based algorithms for accomplishing this task include a divide-and-conquer algorithm that breaks down elements into small sublists that are later merged. For 5 points each:
+
+[5] Identify this common task in computer science, the rearrangement of items in a list into a defined order.
+
+ANSWER: sorting
+
+[5] In this probabilistic sorting algorithm of average time complexity n log n, a random pivot is chosen, all elements smaller than the pivot are moved to one side, and the algorithm is called recursively on the right and left lists.
+
+ANSWER: quicksort
+
+[5] This other sorting algorithm, with average-case performance of n log n, first searches for sub-arrays that are already sorted. It uses insertion-sort to increase the length of sorted sub-arrays to a minimum size, then merges them.
+
+ANSWER: Timsort
+
+3. Note to reader: Do not read the alternative answer to the first part of this bonus aloud. 1. This security bug in a common Unix software program was considered by some experts to be more significant than the previous Heartbleed bug. For 5 points each:
+
+[5] Give the common name for this critical security bug officially announced in September 2014, which left CGI servers and PHP code using the exec() function vulnerable to attack.
+
+ANSWER: Shellshock [or Bashdoor]
+
+[5] Shellshock was a security bug which targeted this popular Unix/Linux shell and scripting language, which can be compared to others like Zsh and Dash.
+
+ANSWER: Bash
+
+[5] This keyboard shortcut on Bash kills whatever process you are running. Using this keyboard shortcut on Windows copies whatever text or file is highlighted, to be followed often by Control-V
+
+ANSWER: Control-C [or Ctrl-C; accept clear equivalents indicating that the user is pressing both the Ctrl key and the C key at the same time; do not accept "Command-C"]
+
+4. In 1991, Bernard Chazelle developed an algorithm to generate these objects from a mesh, but no one has ever implemented it since it is too complex.
+
+[5] Name these shapes, "fans" and "strips" of which are specified to save overhead in OpenGL.
+
+ANSWER: triangles
+
+[5] That algorithm by Chazelle runs with this, tight-bound, big O asymptotic complexity. It's also the runtime of a naïve brute force search of a list with n elements.
+
+ANSWER: linear [or "big O of n"]
+
+[5] The linear time Boyer-Moore algorithm searches through these data types and is well-suited for detecting plagiarism. These data types hold text.
+
+ANSWER: strings
+
+5. The modern approach to this topic was authored by Peter Norvig and Russel Stewart.
+
+[5] Name this field of study, whose name was coined by John McCarthy, informally defined as the science of making machines that can solve specific problems in a way that resembles thinking.
+
+ANSWER: artificial intelligence [or A.I.]
+
+[5] Named entity recognition and sentiment analysis are two tasks in the specialized branch of artificial intelligence, concerned with the "processing" of these systems.
+
+ANSWER: natural language processing [accept NLP, prompt on "languages" do not accept "computer languages" or "artificial languages."]
+
+[5] This computer scientist at Google, is known for his wild predictions about artificial intelligence. In The Singularity is Near and The Age of Intelligent Machines, this dipshit predicts that machines will have autonomy, sentience and value equivalent to human life.
+
+ANSWER: Ray Kurzwell
+
+6. A way to optimize this algorithm when facing the "Dutch national flag problem" is to take a "fat pivot" that includes items equal to the pivot. For 5 points each:
+
+[5] Identify this speedy divide-and-conquer sorting algorithm developed by Tony Hoare. In the ordinary variant of this algorithm, items less than or greater than the pivot are placed into two sub-arrays.
+
+ANSWER: quicksort
+
+[5] In order to avoid this worst case runtime of quicksort, the input data is often randomized before starting the sort. It is infamously the average case runtime for bubble sort. Express your answer in big O notation.
+
+ANSWER: big O of n squared [or quadratic; or obvious equivalents; prompt on polynomial or algebraic]
+
+[5] Randomization is used in these types of algorithms, which have deterministic runtimes but aren't guaranteed to produce correct results. These methods were first developed by Stanislaw Ulam and implemented by John von Neumann on the ENIAC.
+
+ANSWER: Monte Carlo algorithms [or Monte Carlo methods]
+
+7. One of the first of these algorithms was designed in the 1960s by John McCarthy and is known as the mark and sweep method. For 5 points each:
+
+[5] Identify these types of algorithms that don't require programmers to explicitly free allocated memory. An approach to doing this finds all non-reachable memory and deletes it.
+
+ANSWER: garbage collection algorithms [or word forms]
+
+[5] This object-oriented language used in many AP CS classes includes a garbage collector. Dalvik runs programs written in this language on Android devices.
+
+ANSWER: Java [do not accept "Javascript"]
+
+[5] McCarthy's garbage collector was written for Lisp, which is an example of this type of language. Haskell is an example of the "pure" form of this type of language, as its namesake constructs do not cause side effects.
+
+ANSWER: functional programming language
+
+8. The dedicated shader units of varieties of these computer parts have been used to solve physics problems. For 5 points each:
+
+[5] Identify these computer parts whose memory may be used to store triangle meshes and texture maps; in laptops they are often integrated with the CPU.
+
+ANSWER: GPU [or graphics cards; or video cards; or Graphics Processing Unit; or Graphical Processing Unit; or VPU; or Visual Processing Unit]
+
+[5] Suites such as ocl-Hashcat Plus use GPUs to quickly crack these things, which are often salted and put through a secure hashing function. These things tend to be more secure when they're comprised of longer sets of characters.
+
+ANSWER: passwords
+
+[5] Secure hash functions are designed to minimize the number of these events where different inputs produce the same hashed output. In a regular hash table, chaining is a way to resolve these conflicts.
+
+ANSWER: collisions
+
+9. Identify the following about variables in computer science, for 5 points each.
+
+[5] Unlike floats, these types of variables generally do not store decimals. These signed variables are often stored using 32 bits and can contain more data than a byte or short but less than a long.
+
+ANSWER: ints [or integers; or Int32; or words; or doubleword; or longword; or halfword]
+
+[5] Variables should not be confused with these things, which have their value set at declaration and are immutable. E in Java's Math library is an example of one of these things.
+
+ANSWER: constants [or constant variables; or literals; do not accept or prompt on "final"]
+
+[5] If a variable is defined at the block level, this property of the variable is limited to the block, making it invisible to other blocks in a function. This property defines a variable's visibility to different parts of a program and comes in function and global varieties.
+
+ANSWER: scope [or visibility]
+
+10. This sorting algorithm was developed by John von Neumann. For 5 points each:
+
+[5] Name this algorithm that builds a sorted list by combining elements from two previously sorted lists.
+
+ANSWER: mergesort
+
+[5] Mergesort is an algorithm that splits a list into two components then calls itself on those two lists. Algorithms that call themselves are described by this term.
+
+ANSWER: recursive [or word forms, such as recursion]
+
+[5] Mergesort is an algorithm that makes use of this strategy, in which an algorithm recursively breaks a problem into a smaller problem of the same type, which is then solved.
+
+ANSWER: divide and conquer [or D&C;]
+
+11. Identify the following about ARPANET, for 5 points each.
+
+[5] The earliest e-mail systems in ARPANET relied on FTP to send mail, but modern e-mail clients use this protocol instead. Unlike the POP3 or IMAP protocols, which are used for receiving, this protocol is used only for sending e-mail and uses port 25.
+
+ANSWER: SMTP [or Simple Mail Transfer Protocol]
+
+[5] ARPANET grouped data to be sent into blocks of data known by this term, which allowed for better sharing of the network. These units of data are forwarded to the appropriate location by routers, and the non-metadata part of them is called the payload.
+
+ANSWER: network packets [or datagrams]
+
+[5] After working on ARPANET, Vint Cerf and Bob Kahn created a transmission protocol that paired the reliability protocol, TCP, with this other protocol. Computers have namesake addresses based on this protocol's version 4 or version 6.
+
+ANSWER: IP [or Internet Protocol]
+
+12. Unlike processes, these things share a common virtual address space, and a program may wait for one of these things to finish executing by calling the join method. For 5 points each:
+
+[5] Identify these constructs often used in parallel programming. A common way to pause a program in Java is to call the sleep method on one of these things.
+
+ANSWER: threads
+
+[5] Processes and threads are managed by a scheduler, which is part of this type of software that manages the interactions between the hardware and software on a computer. Examples include Windows and Linux.
+
+ANSWER: operating systems [or OSes]
+
+[5] One way to trigger this type of condition is to have logic that depends on the specific order of threads being fired. Not to be confused with a deadlock, this unpredictable condition can happen when two threads read and write to the same variable at the same time.
+
+ANSWER: race condition [or race hazard]
+
+13. Identify the following about some properties of algorithms, for 5 points each.
+
+[5] Problems in this computational complexity class can be solved by an efficient algorithm. A difficult unsolved problem in computational complexity theory is whether this class is equal, or not equal, to NP.
+
+ANSWER: P [or PTIME; or polynomial time]
+
+[5] An in-place algorithms does not perform more than a constant amount of this type of operation, which can be performed in C using malloc (M AHL-ock). A specific type of this operation can be performed in Java using the "new" keyword.
+
+ANSWER: memory allocation [or allocating new memory; prompt on creating an object; prompt on obvious equivalents]
+
+[5] This adjective describes algorithms that do not change the relative order of the input set. For instance, a card sorting algorithm with this property would preserve the order of suits between cards of the same face value.
+
+ANSWER: stable [or stability]
+
+14. This recursive algorithm iteratively revises the lengths of paths until an accurate value is found for every pair of points it operates on. For 5 points each:
+
+[5] Name this algorithm, which is often used to find the transitive closure of a directed graph.
+
+ANSWER: Floyd-Warshall algorithm [Floyd's algorithm, the Roy-Warshall algorithm, the Roy-Floyd algorithm, or the WFI algorithm.]
+
+[5] The Floyd-Warshall algorithm is also used to calculate the path length of this quantity for all pairs of points on a graph. Dijkstra's algorithm will also find this for a single starting point.
+
+ANSWER: shortest path
+
+[5] The Floyd-Warshall algorithm makes use of this technique, in which problems are broken down into subproblems and results are memo-ized.
+
+ANSWER: dynamic programming
+
+15. A algorithm of this type, DES, was rendered useless by a linear cryptanalysis by Matsui et al.
+
+[5] Name this type of cryptography in which the same secret cryptographic key is used to encrypt and decrypt the message. AES, twofish, and blowfish are some examples.
+
+ANSWER: symmetric-key cryptography
+
+[5] The DES cryptosystem was also broken by this particularly inefficient kind of attack, in which one simply tries every possible key or password in some order.
+
+ANSWER: brute force [or brute or exhaustive key search; do NOT accept "dictionary attack" or answers involving the dictionary]
+
+[5] Asymmetric cryptosystems often make use of these functions, which are easy to compute in one direction but very difficult to invert without some secret knowledge. An example is multiplying two very large primes together.
+
+ANSWER: trapdoor function [do NOT accept "one-way function"]
+
+16. Answer some things about object-oriented programming.
+
+[5] This feature of object-oriented programming allows classes to implement their superclasses. In the "multiple" type of this feature, more than one base class can be specified for a derived class.
+
+ANSWER: inheritance
+
+[5] In the context of formal logic, inheritance implements this type of relationship, also called the subsumptive relationship. For example, a "derived class" violet would have this relationship to a "base class" flower.
+
+ANSWER: is-a relationship [since "a violet is a flower"]
+
+[5] In contrast to dynamic dispatching, which is used in polymorphism, this type of dispatch uses the same declared type of object each time. This type of code analysis analyzes code without actually running it.
+
+ANSWER: static
+
+17. The Knuth-Morris-Pratt algorithm constructs a deterministic finite automaton to perform this task. For 5 points each:
+
+[5] Name this action also performed by the Rabin-Karp randomized fingerprint algorithm and the Boyer-Moore algorithm.
+
+ANSWER: string searching [accept string matching, substring searching, or equivalents]
+
+[5] The Rabin-Karp algorithm uses a "rolling" one of these constructs. These constructs map an arbitrary number of input keys onto a fixed number of "buckets."
+
+ANSWER: hash table [or hash function; accept word forms like hashing]
+
+[5] In programming, string matching and similar "find-and-replace" operations are often done using these constructs, which are particularly frequently implemented in Perl.
+
+ANSWER: regular expressions [accept regexes or regexps]
+
+18. This problem is a common introductory problem to dynamic programming.
+
+[5] Name this problem that uses the associativity property to find the most efficient way to multiply a sequence of matrices.
+
+ANSWER: matrix-chain multiplication [or: matrix-chain ordering problem, MCOP]
+
+[5] Dynamic programming often takes advantage of this optimization technique, in which the solutions to problems are stored in an array for future use. It basically trades space for time.
+
+ANSWER: memoization [or: memoize, word forms]
+
+[5] Memoization is commonly introduced in the context of calculating the this set of numbers, which are defined by the recurrence relation x-sub-n equals x-sub-n-minus-one plus x-sub-n-minus-two.
+
+ANSWER: Fibonacci numbers [or: Fibonacci sequence]
+
+19. By Schützenberger's theorem, a rational language has this property if and only if its syntactic monoid is finite and aperiodic.
+
+[5] Identify this property of certain regular languages that are definable with first order logic because they can be described by a regular expression constructed only from their alphabet, the empty set, and boolean operators.
+
+ANSWER: star-free [or: they don't use the Kleene star, obvious equivalents]
+
+[5] This computer scientist showed that the monadic second-order theory of the infinite binary tree is decidable. The landscape of automata theory was changed forever upon the publication of the paper "Finite Automata and Their Decision Problem," by this dude and Dana Scott.
+
+ANSWER: Michael O. Rabin [or: Michael Oser Rabin]
+
+[5] The Rabin-Karp string searching algorithm uses this type of function that maps strings of any length to a value of fixed length. The MD5 example of these functions is commonly used as a sort of digital fingerprint for a file.
+
+ANSWER: hash functions
+
+20. Anyone can run GNU and Linux programs on Windows because cygwin provides an API that's compliant with this set of standards maintained by IEEE and The Open Group.
+
+[5] Name this family of Unix-based standards that's designed to increase compatibility of programs between operating systems by defining a standard set of API, shell, and utility interfaces.
+
+ANSWER: POSIX [or: Portable Operating System Interface]
+
+[5] This BSD-derived operating system offered by Apple is a notable example of POSIX compliance. Before 2006, releases of this operating system could only be run on the PowerPC architecture.
+
+ANSWER: Mac OS X [prompt on: "Mac OS"; according to Wikipedia and no one else on the entire planet, the X is supposed to be pronounced as "ten", so you can take that on the off-chance that someone says it]
+
+[5] PowerPC was a prominent example of this CPU architecture that's also used by ARM processors. In computer science school, students often work with MIPS, another example of this architecture, which has generally has a fixed-length and highly-optimized instruction set.
+
+ANSWER: RISC [or: reduced instruction-set computer]

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="UniversityChallenge.jnlp">
+  <information>
+    <title>UniversityChallenge</title>
+    <vendor>15052401</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" java-vm-args="-enableassertions "  href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="UniversityChallenge.jar" size="32028" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="UniversityChallenge" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="universitychallenge.UniversityChallenge"  name="UniversityChallenge" />
+  <update check="always"/>
+</jnlp>
